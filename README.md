@@ -1,5 +1,11 @@
-AI-Solver
+Data-Scanner
 =========
+What it does:
+1- Scan data
+2- Clean data
+3- Extract key data
+4- Process data
+5- Give result
 
 Using AI to solve problems
 
