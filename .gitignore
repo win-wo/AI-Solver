@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+#folder
+.vscode/
+__pycache__/
+
