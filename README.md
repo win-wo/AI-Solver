@@ -9,7 +9,7 @@ What it does:
 
 Using AI to solve problems
 
-tech to use: C++, python
+tech to use: python, maybe c++
 
 milestone:
 1-Setup the basic to solve math question
